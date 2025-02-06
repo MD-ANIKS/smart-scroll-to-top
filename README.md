@@ -69,11 +69,11 @@ I strive to provide excellent support, and your feedback is invaluable in improv
 
 1. **Button appearance**: Shows the default Scroll to Top button on a demo page.
 
-![Button appearance](screenshots/screenshot_1.png)
+![Button appearance](assets/screenshots/Screenshot-1.png)
 
 2. **Customizer options**: Configure the button appearance via the WordPress Customizer.
 
-![Customizer options](screenshots/screenshot_2.png)
+![Customizer options](assets/screenshots/Screenshot-2.png)
 
 == Changelog ==
 
